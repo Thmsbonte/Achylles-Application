@@ -30,7 +30,7 @@ MVP of a mobile application for French real estate company Achylles. With a mult
 - **Settings page** to update user's information
 
 ## Stack & Architecture
-<img width="763" alt="achylles-architecture" src="https://user-images.githubusercontent.com/5527656/113010516-2f907a00-9179-11eb-8778-7568f80b9c59.png">
+![achylles-architecture](https://user-images.githubusercontent.com/5527656/113020715-26a4a600-9183-11eb-91f9-48d68e4569a7.png)
 
 ### Built with
 
