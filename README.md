@@ -43,7 +43,7 @@ MVP of a mobile application for French real estate company Achylles. With a mult
 
 ### Main packages/features used
 
-- [Nodemailer](https://nodemailer.com/)achylles-architecture
+- [Nodemailer](https://nodemailer.com/)
 - [Cloudinary](https://cloudinary.com/)
 - [react-native-swiper](https://github.com/leecade/react-native-swiper)
 - [mapbox](https://www.mapbox.com/)
