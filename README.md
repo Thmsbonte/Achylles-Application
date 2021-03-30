@@ -1,7 +1,7 @@
 <h1 align="center">
 	Achylles App - React Native with Expo
 </h1>
-<p align="center">This repository only contains a presentation of the project. The source code is private.</p>
+<p align="center">⚠️ This repository only contains a presentation of the project. The source code is private.⚠️ </p>
 
 <p align="center">
 	<img src="https://github.com/Thmsbonte/Achylles/blob/main/preview/achylle-gify.gif" width="300">
