@@ -4,7 +4,7 @@
 <p align="center">This repository only contains a presentation of the project. The source code is private.</p>
 
 <p align="center">
-	<img src="https://user-images.githubusercontent.com/5527656/113014898-4df87480-917d-11eb-9e4f-5553f086a476.gif" width="260">
+	<img src="https://github.com/Thmsbonte/Achylles/blob/main/preview/Achylles.gif" width="300">
 </p>
 
 ## Overview
