@@ -1,5 +1,5 @@
 <h3 align="center">
-	Achylles App - React Native & Expo
+	Achylles App - React Native with Expo
 </h3>
 <p align="center">This repository only contains a presentation of the project. The source code is private.</p>
 
