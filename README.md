@@ -30,7 +30,6 @@ MVP of a mobile application for French real estate company Achylles. With a mult
 - **Settings page** to update user's information
 
 ## Stack & Architecture
-![achylles-architecture](https://user-images.githubusercontent.com/5527656/113020715-26a4a600-9183-11eb-91f9-48d68e4569a7.png)
 
 ### Built with
 
@@ -40,6 +39,7 @@ MVP of a mobile application for French real estate company Achylles. With a mult
 - [MongoDB](https://www.mongodb.com/)
 
 ### High-level architecture
+![achylles-architecture](https://user-images.githubusercontent.com/5527656/113020715-26a4a600-9183-11eb-91f9-48d68e4569a7.png)
 
 ### Main packages/features used
 
