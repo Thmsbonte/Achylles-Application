@@ -27,7 +27,7 @@ MVP of a mobile application for French real estate company Achylles. With a mult
 ### Screenshots
 
 <p align="center">
-	<img width="225" alt="signup" src="https://user-images.githubusercontent.com/5527656/113010936-8d24c680-9179-11eb-9bb6-76286445d13f.png"><img width="225" alt="results" src="https://user-images.githubusercontent.com/5527656/113010704-58187400-9179-11eb-8feb-18c36d9d5020.png"><img width="225" alt="details" src="https://user-images.githubusercontent.com/5527656/113010856-767e6f80-9179-11eb-8d2a-8cef7338721a.png"><img width="225" alt="chat" src="https://user-images.githubusercontent.com/5527656/113010954-92821100-9179-11eb-912f-1f6f6c5dfa29.png">
+	<img width="210" alt="signup" src="https://user-images.githubusercontent.com/5527656/113010936-8d24c680-9179-11eb-9bb6-76286445d13f.png"><img width="210" alt="results" src="https://user-images.githubusercontent.com/5527656/113010704-58187400-9179-11eb-8feb-18c36d9d5020.png"><img width="210" alt="details" src="https://user-images.githubusercontent.com/5527656/113010856-767e6f80-9179-11eb-8d2a-8cef7338721a.png"><img width="210" alt="chat" src="https://user-images.githubusercontent.com/5527656/113010954-92821100-9179-11eb-912f-1f6f6c5dfa29.png">
 </p>
 
 <p align="center">
