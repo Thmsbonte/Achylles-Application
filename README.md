@@ -31,7 +31,7 @@ MVP of a mobile application for French real estate company Achylles. With a mult
 </p>
 
 <p align="center">
-<img width="1426" alt="achylles-backoffice" src="https://user-images.githubusercontent.com/5527656/113022211-a8e19a00-9184-11eb-8dff-690af5af427a.png">
+<img width="1200" alt="achylles-backoffice" src="https://user-images.githubusercontent.com/5527656/113022211-a8e19a00-9184-11eb-8dff-690af5af427a.png">
 	</p>
 
 ## Stack & Architecture
@@ -50,11 +50,11 @@ MVP of a mobile application for French real estate company Achylles. With a mult
 
 - [Nodemailer](https://nodemailer.com/)
 - [Cloudinary](https://cloudinary.com/)
-- [react-native-swiper](https://github.com/leecade/react-native-swiper)
-- [mapbox](https://www.mapbox.com/)
-- [expo notifications](https://docs.expo.io/push-notifications/overview/)
-- [mapview](https://github.com/react-native-maps/react-native-maps)
-- [react-native-swiper-flatlist](https://www.npmjs.com/package/react-native-swiper-flatlist)
+- [React-native-swiper](https://github.com/leecade/react-native-swiper)
+- [Mapbox](https://www.mapbox.com/)
+- [Expo notifications](https://docs.expo.io/push-notifications/overview/)
+- [Mapview](https://github.com/react-native-maps/react-native-maps)
+- [React-native-swiper-flatlist](https://www.npmjs.com/package/react-native-swiper-flatlist)
 
 ### Contributors
 
