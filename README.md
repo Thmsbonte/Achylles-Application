@@ -12,11 +12,9 @@
 MVP of a mobile application for French real estate company Achylles. With a multi-step search form and a tinder-like results display this app's ambition is to offer an innovative way to look for your next new-build investment.
 
 ### Screenshots
-#### App
 
 <img width="225" alt="signup" src="https://user-images.githubusercontent.com/5527656/113010936-8d24c680-9179-11eb-9bb6-76286445d13f.png"><img width="225" alt="results" src="https://user-images.githubusercontent.com/5527656/113010704-58187400-9179-11eb-8feb-18c36d9d5020.png"><img width="225" alt="details" src="https://user-images.githubusercontent.com/5527656/113010856-767e6f80-9179-11eb-8d2a-8cef7338721a.png"><img width="225" alt="chat" src="https://user-images.githubusercontent.com/5527656/113010954-92821100-9179-11eb-912f-1f6f6c5dfa29.png">
 
-#### Back-office
 <img width="1426" alt="achylles-backoffice" src="https://user-images.githubusercontent.com/5527656/113022211-a8e19a00-9184-11eb-8dff-690af5af427a.png">
 
 ### Main features
