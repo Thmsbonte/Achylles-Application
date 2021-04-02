@@ -44,7 +44,7 @@ MVP of a mobile application for French real estate company Achylles. With a mult
 - [MongoDB](https://www.mongodb.com/)
 
 ### High-level architecture
-![achylles-architecture](https://user-images.githubusercontent.com/5527656/113020715-26a4a600-9183-11eb-91f9-48d68e4569a7.png)
+![Capture d’écran 2021-04-02 à 15 13 54](https://user-images.githubusercontent.com/5527656/113419243-57751d00-93c7-11eb-92df-56849888b0fc.png)
 
 ### Main packages/features used
 
