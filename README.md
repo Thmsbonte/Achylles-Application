@@ -9,7 +9,7 @@
 
 ## Overview
 
-MVP of a mobile application for French real estate company Achylles. With a multi-step search form and a tinder-like results display this app's ambition is to offer an innovative way to look for your next new-build investment.
+Cross-platform mobile application for French real estate company Achylles. With a multi-step search form and tinder-like results, this app's ambition is to offer an innovative way to look for your next new-build investment.
 
 ### Main features
 - **Login** and **Signup** with account verification
